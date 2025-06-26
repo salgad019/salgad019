@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou Gabriel Salgado
 
-<!--
-**salgad019/salgad019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/salgad019?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/salgad019?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/salgad019/salgad019)
 
-Here are some ideas to get you started:
+## 📊 Minhas Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=salgad019&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
+
+## 🌍 Contato
+- 📫 **Email:** gasalgado019@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/gabrielassis](https://www.linkedin.com/in/gabriel-assis-536931259/)
